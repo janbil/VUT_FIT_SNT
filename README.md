@@ -11,7 +11,7 @@ primo v kodu, pokud je tedy potreba je menit, musi se program znovu prelozit.
 SA parametry jsou v tride Procedure funkci init.
 Pro zmeneni datove sady je potreba zmenit vyznacene casti kodu.
 
-Projekt obsahuje:
+Projekt obsahuje:\
 Makefile\
 main.cpp - zdrojový kód\
 dokumentace.pdf - dokumentace\
