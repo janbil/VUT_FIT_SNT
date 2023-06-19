@@ -12,7 +12,7 @@ SA parametry jsou v tride Procedure funkci init.
 Pro zmeneni datove sady je potreba zmenit vyznacene casti kodu.
 
 Projekt obsahuje:
-Makefile
-main.cpp - zdrojový kód
-dokumentace.pdf - dokumentace
-Readme - tento soubor
+Makefile\
+main.cpp - zdrojový kód\
+dokumentace.pdf - dokumentace\
+Readme - tento soubor\
